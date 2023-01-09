@@ -1,0 +1,2 @@
+MainPackage=C:\Users\vagishn\Downloads\WebView2Samples-main\WebView2Samples-main\SampleApps\webview2_sample_uwp\bin\x86\Debug\webview2_sample_uwp_1.0.0.0_x86_Debug.msix
+SymbolPackage=C:\Users\vagishn\Downloads\WebView2Samples-main\WebView2Samples-main\SampleApps\webview2_sample_uwp\obj\x86\Debug\Symbols\webview2_sample_uwp_1.0.0.0_x86_Debug.appxsym
